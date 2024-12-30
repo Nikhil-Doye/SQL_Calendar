@@ -1,8 +1,6 @@
 # **Day 01: Customers with Multiple Activity Rentals**
 
-## **Question Level of Difficulty**
-
-**Medium**
+## **Level of Difficulty** - **Medium**
 
 ## **Question**
 
